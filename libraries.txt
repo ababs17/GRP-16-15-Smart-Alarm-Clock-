@@ -1,0 +1,15 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+LiquidCrystal I2C
+LiquidCrystal
+DS1307
+DS1307RTC
+DS3231-RTC
+RTCLib by NeiroN
+AnalogRTCLib
+RTC
+RTClib
+RTCtime
+uRTCLib
+MKL_RTClib
